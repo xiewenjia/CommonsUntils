@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "NoDataTableViewCell.h"
 
 @interface BaseTableViewController : UITableViewController
 
