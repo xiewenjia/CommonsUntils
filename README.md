@@ -54,7 +54,7 @@
 /**
  *  显示提示，之后隐藏
  *
- *  @param successString 提示文字
+ *  @param text 提示文字
  */
 - (void)showHudWithText:(NSString *)text;
 
